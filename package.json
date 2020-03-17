@@ -50,7 +50,7 @@
     "log-utils": "^0.2.1",
     "parser-front-matter": "^1.6.2",
     "resolve-dir": "^1.0.0",
-    "yargs-parser": "^4.2.1"
+    "yargs-parser": "^13.1.2"
   },
   "devDependencies": {
     "base-store": "^0.4.4",
